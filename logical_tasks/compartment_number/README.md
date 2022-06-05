@@ -1,0 +1,1 @@
+The compartment car has 99 compartments with four seats for passengers in each. Write a program that determines the number of the compartment in which the seat with the specified number is located (the numbering of seats is continuous, starting from 11).

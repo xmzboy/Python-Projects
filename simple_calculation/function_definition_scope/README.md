@@ -1,0 +1,1 @@
+Write a program to calculate the domain of the function definition

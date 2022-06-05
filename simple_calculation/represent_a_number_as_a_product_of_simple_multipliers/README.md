@@ -1,0 +1,1 @@
+Task: To represent a natural number x as a product of simple multipliers. Simple are called cofactors, which in turn cannot be decomposed into cofactors.

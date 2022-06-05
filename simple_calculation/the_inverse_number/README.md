@@ -1,0 +1,1 @@
+Task: Swap the digits of the highest and lowest digits of a given natural number.
