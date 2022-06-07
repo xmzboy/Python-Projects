@@ -1,1 +1,0 @@
-Task: To determine the number of elements of a linear array larger than the arithmetic mean of the elements of this array.
