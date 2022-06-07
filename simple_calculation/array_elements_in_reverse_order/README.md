@@ -1,0 +1,1 @@
+Task: Write the elements of the array C (20) in reverse order {C20;C19;C18;...;C2;C1}. Do not use an auxiliary array.
