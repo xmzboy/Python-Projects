@@ -13,7 +13,7 @@ Progress table of my projects:
 | Arithmetic Progression | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/arithmetic_progression) |Completed |
 | Bishop's Move | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/bishop_move) |Completed |
 | Chess Board | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/chess_board) |Completed |
-| Compartment Number | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/compartment_number) |
+| Compartment Number | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/compartment_number) |Completed |
 | Intersection Of Segmentus | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/intersection_of_segments) |Completed |Completed |
 | Number of Days | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/number_of_days) |Completed |
 | Population | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/population) |Completed |
