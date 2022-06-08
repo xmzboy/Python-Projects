@@ -1,0 +1,1 @@
+The input to the program is a natural number n, and then n different natural numbers, each on a separate line. Write a program that outputs the largest and second largest number of the sequence.
