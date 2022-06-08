@@ -1,0 +1,1 @@
+Write a program that reads the natural number n and outputs the first n numbers of the Fibonacci sequence.
