@@ -1,0 +1,1 @@
+Write a program that reads a sequence of 10 integers and determines whether each of them is even or not.
