@@ -2,13 +2,13 @@
 This repository created for different Python projects
 ____
 # Information about my projects and their directories in this repository:
-Progress table of my projects:
+
+Progress table of my small logic training projects:
 | Project name | Git-Link | Project status |
 |----------------|:---------:|----------------:|
 | Color Mixer | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/color_mixer) |Completed |
 | Knight's Move | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/knight_move) |Completed |
 | Queen's Move | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/queen_move) |Completed |
-| Test Game On Pygame | [push](https://github.com/xmzboy/Python-Projects/tree/main/minigames/a_little_game_on_pygame) |Completed |
 | An Interesting Number | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/an_interesting_number) |Completed |
 | Arithmetic Progression | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/arithmetic_progression) |Completed |
 | Bishop's Move | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/bishop_move) |Completed |
@@ -20,5 +20,21 @@ Progress table of my projects:
 | Roman Numerals | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/roman_numerals) |Completed |
 | Roulette Wheel Colors | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/roulette_wheel_colors) |Completed |
 | Sorting Three | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/sorting_three) |Completed |
+____
+
+Progress table of my small game projects:
+| Project name | Git-Link | Project status |
+|----------------|:---------:|----------------:|
+| Test Game On Pygame | [push](https://github.com/xmzboy/Python-Projects/tree/main/minigames/a_little_game_on_pygame) |Completed |
 | Air Attack Game | [push](https://github.com/xmzboy/Python-Projects/tree/main/minigames/game_air_attack) |Completed |
+____
+
+Progress table of my small learning projects on computing:
+| Project name | Git-Link | Project status |
+|----------------|:---------:|----------------:|
+| Alternating Amount Sign | [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/alternating_amount_sign) |Completed |
+| Array Elements In Reverse Order | [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/array_elements_in_reverse_order) |Completed |
+| Asymptotic Approximation | [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/asymptotic_approximation) |Completed |
+| Cycles | [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/cycles) |Completed |
+| Floor And Ceiling| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/floor_and_ceiling) |Completed |
 ____
