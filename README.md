@@ -37,4 +37,13 @@ Progress table of my small learning projects on computing:
 | Asymptotic Approximation | [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/asymptotic_approximation) |Completed |
 | Cycles | [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/cycles) |Completed |
 | Floor And Ceiling| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/floor_and_ceiling) |Completed |
+| Function Definition Scope| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/function_definition_scope) |Completed |
+| Number Of Array Elements Larger Than Arithmetic Mean| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/number_of_array_elements_larger_than_arithmetic_mean) |Completed |
+| Only Even Numbers| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/only_even_numbers) |Completed |
+| Represent A Number As A Product Of Simple Multipliers| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/represent_a_number_as_a_product_of_simple_multipliers) |Completed |
+| Simple Calculation| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/simple_calculation) |Completed |
+| Simple Calculation Two| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/simple_calculation_1) |Completed |
+| Simple Calculator| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/simple_calculator) |Completed |
+| Sum Of Numbers| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/sum_of_numbers) |Completed |
+| The Fibonacci Sequence| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/the_fibonacci_sequence) |Completed |
 ____
