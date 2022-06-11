@@ -46,4 +46,11 @@ Progress table of my small learning projects on computing:
 | Simple Calculator| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/simple_calculator) |Completed |
 | Sum Of Numbers| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/sum_of_numbers) |Completed |
 | The Fibonacci Sequence| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/the_fibonacci_sequence) |Completed |
+| The Inverse Number| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/the_inverse_number) |Completed |
+| The Largest Numbers| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/the_largest_numbers) |Completed |
+| The Quadratic Equation| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/the_quadratic_equation) |Completed |
+| The Sum Of Series| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/the_sum_of_series) |Completed |
+| The Value Of The Sum Of An Infinite Series| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/the_value_of_the_sum_of_an_infinite_series) |Completed |
+| The Value Of The Sum Of An Infinite Series Two| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/the_value_of_the_sum_of_an_infinite_series_1) |Completed |
+| Triangle Inequality| [push](https://github.com/xmzboy/Python-Projects/tree/main/simple_calculation/triangle_inequality) |Completed |
 ____
