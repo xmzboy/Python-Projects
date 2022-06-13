@@ -14,8 +14,12 @@ Progress table of my small logic training projects:
 | Bishop's Move | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/bishop_move) |Completed |
 | Chess Board | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/chess_board) |Completed |
 | Compartment Number | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/compartment_number) |Completed |
+| Identical Numbers | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/identical_numbers) |Completed |
 | Intersection Of Segmentus | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/intersection_of_segments) |Completed |Completed |
+| Max And Min | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/max_and_min) |Completed |
 | Number of Days | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/number_of_days) |Completed |
+| Ordered Numbers | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/ordered_numbers) |Completed |
+| Pay The Witcher With A Minted Coin | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/pay_the_witcher_with_a_minted_сoin) |Completed |
 | Population | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/population) |Completed |
 | Roman Numerals | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/roman_numerals) |Completed |
 | Roulette Wheel Colors | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/roulette_wheel_colors) |Completed |
