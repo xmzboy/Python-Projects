@@ -18,12 +18,14 @@ Progress table of my small logic training projects:
 | Intersection Of Segmentus | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/intersection_of_segments) |Completed |Completed |
 | Max And Min | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/max_and_min) |Completed |
 | Number of Days | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/number_of_days) |Completed |
+| Numerical Triangle | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/numerical_triangle) |Completed |
 | Ordered Numbers | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/ordered_numbers) |Completed |
 | Pay The Witcher With A Minted Coin | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/pay_the_witcher_with_a_minted_сoin) |Completed |
 | Population | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/population) |Completed |
 | Roman Numerals | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/roman_numerals) |Completed |
 | Roulette Wheel Colors | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/roulette_wheel_colors) |Completed |
 | Sorting Three | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/sorting_three) |Completed |
+| The Star Triangle | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/the_star_triangle) |Completed |
 ____
 
 Progress table of my small game projects:
