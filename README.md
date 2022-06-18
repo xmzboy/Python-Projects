@@ -28,7 +28,7 @@ Progress table of my small logic training projects:
 | The Star Triangle | [push](https://github.com/xmzboy/Python-Projects/tree/main/logical_tasks/the_star_triangle) |Completed |
 ____
 
-Progress table of my small game projects:
+Progress table of my small test game projects:
 | Project name | Git-Link | Project status |
 |----------------|:---------:|----------------:|
 | Test Game On Pygame | [push](https://github.com/xmzboy/Python-Projects/tree/main/minigames/a_little_game_on_pygame) |Completed |
