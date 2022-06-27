@@ -1,0 +1,1 @@
+Hangman game. Guess a word for six attempts
