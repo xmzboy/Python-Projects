@@ -31,6 +31,9 @@ ____
 Progress table of my small test game projects:
 | Project name | Git-Link | Project status |
 |----------------|:---------:|----------------:|
+| Hangman | [push](https://github.com/xmzboy/Python-Projects/tree/main/minigames/hangman) |Completed | 
+| Magic Ball| [push](https://github.com/xmzboy/Python-Projects/tree/main/minigames/magic_ball) |Completed |
+| Numerical Guessing Game | [push](https://github.com/xmzboy/Python-Projects/tree/main/minigames/numerical_guessing_game) |Completed | 
 | Test Game On Pygame | [push](https://github.com/xmzboy/Python-Projects/tree/main/minigames/a_little_game_on_pygame) |Completed |
 | Air Attack Game | [push](https://github.com/xmzboy/Python-Projects/tree/main/minigames/game_air_attack) |Completed |
 ____
