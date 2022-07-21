@@ -1,1 +1,0 @@
-The input to the program is a natural number nn. Write a program that calculates the value of the asymptotic approximation
