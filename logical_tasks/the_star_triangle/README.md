@@ -1,5 +1,5 @@
 Given an odd natural number n. Write a program that prints an isosceles star triangle with a base equal to n according to the example:
-
+```
 *
 **
 ***
@@ -7,7 +7,7 @@ Given an odd natural number n. Write a program that prints an isosceles star tri
 ***
 **
 *
-
+```
 Input data format
 One odd natural number is given to the program as input.
 
